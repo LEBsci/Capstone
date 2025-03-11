@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+capstonevenv/
 
 # Spyder project settings
 .spyderproject
@@ -175,3 +176,4 @@ pushes.sh
 
 # Data directory
 data/
+

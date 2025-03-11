@@ -1,0 +1,2408 @@
+File name: 2020_01_Gener_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (3398708, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'is_installed', 'is_renting', 'is_returning', 'last_reported',
+       'is_charging_station', 'status', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2020_02_Febrer_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (3500841, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'is_installed', 'is_renting', 'is_returning', 'last_reported',
+       'is_charging_station', 'status', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2020_03_Marc_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (2408419, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'is_installed', 'is_renting', 'is_returning', 'last_reported',
+       'is_charging_station', 'status', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2020_04_Abril_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (3892389, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'is_installed', 'is_renting', 'is_returning', 'last_reported',
+       'is_charging_station', 'status', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2020_05_Maig_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (3742388, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'is_installed', 'is_renting', 'is_returning', 'last_reported',
+       'is_charging_station', 'status', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2020_06_Juny_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4099864, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'is_installed', 'is_renting', 'is_returning', 'last_reported',
+       'is_charging_station', 'status', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2020_07_Juliol_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4335089, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'is_installed', 'is_renting', 'is_returning', 'last_reported',
+       'is_charging_station', 'status', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2020_08_Agost_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (3869580, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'is_installed', 'is_renting', 'is_returning', 'last_reported',
+       'is_charging_station', 'status', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2020_09_Setembre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4246500, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'is_installed', 'is_renting', 'is_returning', 'last_reported',
+       'is_charging_station', 'status', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2020_10_Octubre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4455674, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'is_installed', 'is_renting', 'is_returning', 'last_reported',
+       'is_charging_station', 'status', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2020_11_Novembre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (3670067, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'is_installed', 'is_renting', 'is_returning', 'last_reported',
+       'is_charging_station', 'status', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2020_12_Desembre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4419114, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2021_01_Gener_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4509149, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2021_02_Febrer_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4017900, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2021_03_Març_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4528030, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2021_04_Abril_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4389888, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2021_05_Maig_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4538684, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2021_06_Juny_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4308619, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2021_07_Juliol_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4436678, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                           float64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2021_08_Agost_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4520650, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                               int64
+num_bikes_available                      int64
+num_bikes_available_types.mechanical     int64
+num_bikes_available_types.ebike          int64
+num_docks_available                      int64
+last_reported                            int64
+is_charging_station                       bool
+status                                  object
+is_installed                             int64
+is_renting                               int64
+is_returning                             int64
+last_updated                             int64
+ttl                                      int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2021_09_Setembre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4384751, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                               int64
+num_bikes_available                      int64
+num_bikes_available_types.mechanical     int64
+num_bikes_available_types.ebike          int64
+num_docks_available                      int64
+last_reported                            int64
+is_charging_station                       bool
+status                                  object
+is_installed                             int64
+is_renting                               int64
+is_returning                             int64
+last_updated                             int64
+ttl                                      int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2021_10_Octubre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4501053, 13)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                               int64
+num_bikes_available                      int64
+num_bikes_available_types.mechanical     int64
+num_bikes_available_types.ebike          int64
+num_docks_available                      int64
+last_reported                            int64
+is_charging_station                       bool
+status                                  object
+is_installed                             int64
+is_renting                               int64
+is_returning                             int64
+last_updated                             int64
+ttl                                      int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                              0
+num_bikes_available                     0
+num_bikes_available_types.mechanical    0
+num_bikes_available_types.ebike         0
+num_docks_available                     0
+last_reported                           0
+is_charging_station                     0
+status                                  0
+is_installed                            0
+is_renting                              0
+is_returning                            0
+last_updated                            0
+ttl                                     0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2021_11_Novembre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4315064, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'last_updated', 'ttl', 'traffic'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+last_updated                              int64
+ttl                                       int64
+traffic                                 float64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+last_updated                                  0
+ttl                                           0
+traffic                                 4169637
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2021_12_Desembre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4398576, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 3709046
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2022_01_Gener_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4390690, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4390690
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2022_02_Febrer_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (3936804, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 3936804
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2022_03_Març_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4535987, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4535987
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2022_04_Abril_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4371369, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4371369
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2022_05_Maig_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4523985, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4523985
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2022_06_Juny_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4382454, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4382454
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2022_07_Juliol_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4524353, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4524353
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2022_08_Agost_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4497691, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4497691
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2022_09_Setembre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4362921, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4362921
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2022_10_Octubre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4508304, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4508304
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2022_11_Novembre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4345375, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4345375
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2022_12_Desembre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4512523, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4512523
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2023_01_Gener_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4064084, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4064084
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2023_02_Febrer_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4065829, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4065829
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2023_03_Marc_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4295373, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4295373
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 1010
+
+---------------------------------------------------------------
+File name: 2023_04_Abril_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (3616386, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 3616386
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 2020
+
+---------------------------------------------------------------
+File name: 2023_05_Maig_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4225973, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4225973
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2023_06_Juny_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4179675, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4179675
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 3052
+
+---------------------------------------------------------------
+File name: 2023_07_Juliol_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4547623, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4547623
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 0
+
+---------------------------------------------------------------
+File name: 2023_08_Agost_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (3113047, 15)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl', 'V1'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                              float64
+num_bikes_available                     float64
+num_bikes_available_types.mechanical    float64
+num_bikes_available_types.ebike         float64
+num_docks_available                     float64
+last_reported                           float64
+is_charging_station                      object
+status                                   object
+is_installed                            float64
+is_renting                              float64
+is_returning                            float64
+traffic                                 float64
+last_updated                            float64
+ttl                                     float64
+V1                                      float64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                 2462
+num_bikes_available                        2462
+num_bikes_available_types.mechanical       2462
+num_bikes_available_types.ebike            2462
+num_docks_available                        2462
+last_reported                              2462
+is_charging_station                        2462
+status                                     2462
+is_installed                               2462
+is_renting                                 2462
+is_returning                               2462
+traffic                                 3113047
+last_updated                               2462
+ttl                                        2462
+V1                                      3113047
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 10051
+
+---------------------------------------------------------------
+File name: 2023_09_Setembre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (3729163, 15)
+The columns of the dataframe are:
+ Index(['V1', 'station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ V1                                      float64
+station_id                              float64
+num_bikes_available                     float64
+num_bikes_available_types.mechanical    float64
+num_bikes_available_types.ebike         float64
+num_docks_available                     float64
+last_reported                           float64
+is_charging_station                      object
+status                                   object
+is_installed                            float64
+is_renting                              float64
+is_returning                            float64
+traffic                                 float64
+last_updated                            float64
+ttl                                     float64
+dtype: object
+The number of NaN values in the dataframe is:
+ V1                                      3729163
+station_id                                 1303
+num_bikes_available                        1303
+num_bikes_available_types.mechanical       1303
+num_bikes_available_types.ebike            1303
+num_docks_available                        1303
+last_reported                              1303
+is_charging_station                        1303
+status                                     1303
+is_installed                               1303
+is_renting                                 1303
+is_returning                               1303
+traffic                                 3729163
+last_updated                               1303
+ttl                                        1303
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 1809
+
+---------------------------------------------------------------
+File name: 2023_10_Octubre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4487606, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4487606
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 2550
+
+---------------------------------------------------------------
+File name: 2023_11_Novembre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4343342, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4343342
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 1502
+
+---------------------------------------------------------------
+File name: 2023_12_Desembre_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4525546, 14)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                                int64
+num_bikes_available                       int64
+num_bikes_available_types.mechanical      int64
+num_bikes_available_types.ebike           int64
+num_docks_available                       int64
+last_reported                             int64
+is_charging_station                        bool
+status                                   object
+is_installed                              int64
+is_renting                                int64
+is_returning                              int64
+traffic                                 float64
+last_updated                              int64
+ttl                                       int64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    0
+num_bikes_available                           0
+num_bikes_available_types.mechanical          0
+num_bikes_available_types.ebike               0
+num_docks_available                           0
+last_reported                                 0
+is_charging_station                           0
+status                                        0
+is_installed                                  0
+is_renting                                    0
+is_returning                                  0
+traffic                                 4525546
+last_updated                                  0
+ttl                                           0
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 9652
+
+---------------------------------------------------------------
+File name: 2024_01_Gener_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4369765, 15)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl', 'V1'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                              float64
+num_bikes_available                     float64
+num_bikes_available_types.mechanical    float64
+num_bikes_available_types.ebike         float64
+num_docks_available                     float64
+last_reported                           float64
+is_charging_station                      object
+status                                   object
+is_installed                            float64
+is_renting                              float64
+is_returning                            float64
+traffic                                 float64
+last_updated                            float64
+ttl                                     float64
+V1                                      float64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    6
+num_bikes_available                           6
+num_bikes_available_types.mechanical          6
+num_bikes_available_types.ebike               6
+num_docks_available                           6
+last_reported                                 6
+is_charging_station                           6
+status                                        6
+is_installed                                  6
+is_renting                                    6
+is_returning                                  6
+traffic                                 4369765
+last_updated                                  6
+ttl                                           6
+V1                                      4369765
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 11690
+
+---------------------------------------------------------------
+File name: 2024_02_Febrer_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4246866, 15)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl', 'V1'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                              float64
+num_bikes_available                     float64
+num_bikes_available_types.mechanical    float64
+num_bikes_available_types.ebike         float64
+num_docks_available                     float64
+last_reported                           float64
+is_charging_station                      object
+status                                   object
+is_installed                            float64
+is_renting                              float64
+is_returning                            float64
+traffic                                 float64
+last_updated                            float64
+ttl                                     float64
+V1                                      float64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    3
+num_bikes_available                           3
+num_bikes_available_types.mechanical          3
+num_bikes_available_types.ebike               3
+num_docks_available                           3
+last_reported                                 3
+is_charging_station                           3
+status                                        3
+is_installed                                  3
+is_renting                                    3
+is_returning                                  3
+traffic                                 4246866
+last_updated                                  3
+ttl                                           3
+V1                                      4246866
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 2
+
+---------------------------------------------------------------
+File name: 2024_03_Marc_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4533448, 15)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl', 'V1'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                              float64
+num_bikes_available                     float64
+num_bikes_available_types.mechanical    float64
+num_bikes_available_types.ebike         float64
+num_docks_available                     float64
+last_reported                           float64
+is_charging_station                      object
+status                                   object
+is_installed                            float64
+is_renting                              float64
+is_returning                            float64
+traffic                                 float64
+last_updated                            float64
+ttl                                     float64
+V1                                      float64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    2
+num_bikes_available                           2
+num_bikes_available_types.mechanical          2
+num_bikes_available_types.ebike               2
+num_docks_available                           2
+last_reported                                 2
+is_charging_station                           2
+status                                        2
+is_installed                                  2
+is_renting                                    2
+is_returning                                  2
+traffic                                 4533448
+last_updated                                  2
+ttl                                           2
+V1                                      4533448
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 512
+
+---------------------------------------------------------------
+File name: 2024_04_Abril_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4390418, 15)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl', 'V1'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                              float64
+num_bikes_available                     float64
+num_bikes_available_types.mechanical    float64
+num_bikes_available_types.ebike         float64
+num_docks_available                     float64
+last_reported                           float64
+is_charging_station                      object
+status                                   object
+is_installed                            float64
+is_renting                              float64
+is_returning                            float64
+traffic                                 float64
+last_updated                            float64
+ttl                                     float64
+V1                                      float64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    3
+num_bikes_available                           3
+num_bikes_available_types.mechanical          3
+num_bikes_available_types.ebike               3
+num_docks_available                           3
+last_reported                                 3
+is_charging_station                           3
+status                                        3
+is_installed                                  3
+is_renting                                    3
+is_returning                                  3
+traffic                                 4390418
+last_updated                                  3
+ttl                                           3
+V1                                      4390418
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 2
+
+---------------------------------------------------------------
+File name: 2024_05_Maig_BicingNou_ESTACIONS
+The shape of the dataframe is:
+ (4522608, 15)
+The columns of the dataframe are:
+ Index(['station_id', 'num_bikes_available',
+       'num_bikes_available_types.mechanical',
+       'num_bikes_available_types.ebike', 'num_docks_available',
+       'last_reported', 'is_charging_station', 'status', 'is_installed',
+       'is_renting', 'is_returning', 'traffic', 'last_updated', 'ttl', 'V1'],
+      dtype='object')
+The data types of the dataframe are:
+ station_id                              float64
+num_bikes_available                     float64
+num_bikes_available_types.mechanical    float64
+num_bikes_available_types.ebike         float64
+num_docks_available                     float64
+last_reported                           float64
+is_charging_station                      object
+status                                   object
+is_installed                            float64
+is_renting                              float64
+is_returning                            float64
+traffic                                 float64
+last_updated                            float64
+ttl                                     float64
+V1                                      float64
+dtype: object
+The number of NaN values in the dataframe is:
+ station_id                                    6
+num_bikes_available                           6
+num_bikes_available_types.mechanical          6
+num_bikes_available_types.ebike               6
+num_docks_available                           6
+last_reported                                15
+is_charging_station                           6
+status                                        6
+is_installed                                  6
+is_renting                                    6
+is_returning                                  6
+traffic                                 4522608
+last_updated                                  6
+ttl                                           6
+V1                                      4522608
+dtype: int64
+The number of duplicate rows in the dataframe is:
+ 514
+
+---------------------------------------------------------------
