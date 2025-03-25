@@ -177,3 +177,4 @@ pushes.sh
 # Data directory
 data/
 
+data.sqlite
