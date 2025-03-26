@@ -178,3 +178,5 @@ pushes.sh
 data/
 
 data.sqlite
+data.sqlite-journal
+data.zip
