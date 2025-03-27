@@ -180,3 +180,4 @@ data/
 data.sqlite
 data.sqlite-journal
 data.zip
+kaggle.json
